@@ -1,6 +1,6 @@
 # game_tracker_web
 
-A new Flutter project.
+Um aplicativo capaz de listar jogos zerados
 
 ## Getting Started
 
